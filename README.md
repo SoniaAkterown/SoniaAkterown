@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Sonia Akter]! 👋
+# Hi there, I'm Sonia Akter 👋
 <!--
 **SoniaAkterown/SoniaAkterown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
