@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🛠️ Languages:
+#### 💻 Languages:
 ![](https://img.shields.io/badge/C++-f8f9fa?style=for-the-badge&logo=cplusplus&logoColor=333)
 ![](https://img.shields.io/badge/Java-f8f9fa?style=for-the-badge&logo=java&logoColor=333)
 ![](https://img.shields.io/badge/Python-f8f9fa?style=for-the-badge&logo=python&logoColor=333)
