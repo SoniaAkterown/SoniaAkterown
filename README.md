@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Oracle-f8f9fa?style=for-the-badge&logo=oracle&logoColor=333)
 ![](https://img.shields.io/badge/PostgreSQL-f8f9fa?style=for-the-badge&logo=postgresql&logoColor=333)
 ![](https://img.shields.io/badge/Firebase-f8f9fa?style=for-the-badge&logo=firebase&logoColor=333)
+![](https://img.shields.io/badge/Supabase-f8f9fa?style=for-the-badge&logo=Supabase&logoColor=333)
 
 #### 📱 Mobile Development:
 ![](https://img.shields.io/badge/Flutter-f8f9fa?style=for-the-badge&logo=flutter&logoColor=333)
