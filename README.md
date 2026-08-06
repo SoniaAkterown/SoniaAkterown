@@ -38,6 +38,8 @@
 #### 🔬 Research & Academics:
 ![](https://img.shields.io/badge/Research_Papers-f8f9fa?style=for-the-badge&logo=googlescholar&logoColor=333)
 ![](https://img.shields.io/badge/LaTeX-f8f9fa?style=for-the-badge&logo=latex&logoColor=333)
+![](https://img.shields.io/badge/Kaggle-f8f9fa?style=for-the-badge&logo=Kaggle&logoColor=333)
+![](https://img.shields.io/badge/Colab-f8f9fa?style=for-the-badge&logo=Colab&logoColor=333)
 
 #### ☁️ Cloud:
 ![](https://img.shields.io/badge/Docker-f8f9fa?style=for-the-badge&logo=docker&logoColor=333)
