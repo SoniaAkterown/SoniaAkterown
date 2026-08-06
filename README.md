@@ -1,7 +1,7 @@
 
 ##### Hi there, I'm Sonia Akter 👋
 
-###  Tech Stack & Skills
+### ⚙️ Tech Stack & Skills
 
 #### 💻 Languages:
 ![](https://img.shields.io/badge/C++-f8f9fa?style=for-the-badge&logo=cplusplus&logoColor=333)
