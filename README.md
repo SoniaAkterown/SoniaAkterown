@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sonia Akter 👋
+# Hi, I'm Sonia Akter 👋
 
 ### ⚙️ Tech Stack & Skills
 
