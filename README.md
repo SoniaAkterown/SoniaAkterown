@@ -11,6 +11,8 @@ I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher . My pr
 - 💻 **Full-Stack:** Developing scalable web apps with React, FastAPI & Node.js.
 - 🧠 **Problem Solving:** Practicing DSA and competitive programming on Codeforces & LeetCode.
 
+---
+
 ### ⚙️ Tech Stack & Skills
 
 #### 💻 Languages:
@@ -82,6 +84,7 @@ I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher . My pr
 ![](https://img.shields.io/badge/Markdown-f8f9fa?style=for-the-badge&logo=markdown&logoColor=333)
 ![](https://img.shields.io/badge/Vercel-f8f9fa?style=for-the-badge&logo=vercel&logoColor=333)
 
+---
 
 ### 🤝 Let's Collaborate & Connect
 
