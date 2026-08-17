@@ -3,11 +3,10 @@
 
 I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher from Bangladesh 🇧🇩. My primary focus lies at the intersection of scalable software architecture, Machine Learning, and biomedical intelligence.
 
-- 🔬 **Research & Healthcare AI:** Researching Deep Learning applications in the medical sector (medical imaging, disease diagnosis, and health informatics) and drafting research papers with LaTeX.
-- 🤖 **AI & ML Systems:** Designing intelligent workflows, fine-tuning ML models, and engineering custom RAG pipelines with LangChain.
-- 💻 **Full-Stack Engineering:** Architecting high-performance web systems using React, FastAPI, Node.js, and modern databases.
-- 🧠 **Problem Solving:** Honing strong algorithmic thinking and competitive programming skills on LeetCode and Codeforces.
-
+- 🔬 **Medical AI:** Researching Deep Learning for healthcare diagnosis & medical imaging.
+- 🤖 **AI/ML:** Building intelligent workflows & RAG pipelines with LangChain.
+- 💻 **Full-Stack:** Developing scalable web apps with React, FastAPI & Node.js.
+- 🧠 **Problem Solving:** Practicing DSA and competitive programming on Codeforces & LeetCode.
   
 
 ### ⚙️ Tech Stack & Skills
