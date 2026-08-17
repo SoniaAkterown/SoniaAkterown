@@ -1,7 +1,7 @@
 
 ### 💫 About Me
 
-I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher from Bangladesh 🇧🇩. My primary focus lies at the intersection of scalable software architecture, Machine Learning, and biomedical intelligence.
+I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher . My primary focus lies at the intersection of scalable software architecture, Machine Learning, and biomedical intelligence.
 
 
 - 🎥 **Content Creation:** Sharing free educational tech content on my YouTube channel, [Failure Coder](https://www.youtube.com/@Failure_Coder_easy).
