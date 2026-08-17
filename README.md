@@ -82,6 +82,17 @@ I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher . My pr
 ![](https://img.shields.io/badge/Markdown-f8f9fa?style=for-the-badge&logo=markdown&logoColor=333)
 ![](https://img.shields.io/badge/Vercel-f8f9fa?style=for-the-badge&logo=vercel&logoColor=333)
 
+
+### 🤝 Let's Collaborate & Connect
+
+I am always open to collaborating on innovative AI/ML projects, healthcare research, and scalable web architectures. Whether you want to partner on biomedical research, discuss RAG systems, or invite me to speak/share educational content—let's connect!
+
+- 🔬 **Research Collaborations:** Medical Deep Learning, NLP, and health informatics.
+- 🚀 **Engineering & AI:** Full-stack development, LangChain workflows, and API architectures.
+- 🎥 **Community & Mentorship:** Educational tech content and knowledge sharing via **Failure Coder**.
+
+📫 Feel free to reach out for project collaborations, research discussions, or just a tech chat!
+
 <!--
 **SoniaAkterown/SoniaAkterown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
