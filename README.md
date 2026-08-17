@@ -3,12 +3,13 @@
 
 I'm **Sonia Akter**, an AI-driven Full-Stack Web Engineer and Researcher from Bangladesh 🇧🇩. My primary focus lies at the intersection of scalable software architecture, Machine Learning, and biomedical intelligence.
 
+
+- 🎥 **Content Creation:** Sharing free educational tech content on my YouTube channel, [Failure Coder](https://www.youtube.com/@Failure_Coder_easy).
+  
 - 🔬 **Medical AI:** Researching Deep Learning for healthcare diagnosis & medical imaging.
 - 🤖 **AI/ML:** Building intelligent workflows & RAG pipelines with LangChain.
 - 💻 **Full-Stack:** Developing scalable web apps with React, FastAPI & Node.js.
 - 🧠 **Problem Solving:** Practicing DSA and competitive programming on Codeforces & LeetCode.
-- 🎥 **Content Creation:** Sharing free educational tech content on my YouTube channel, [Failure Coder](https://www.youtube.com/@Failure_Coder_easy).
-  
 
 ### ⚙️ Tech Stack & Skills
 
