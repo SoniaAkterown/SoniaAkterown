@@ -94,7 +94,7 @@ I am always open to collaborating on innovative AI/ML projects, healthcare resea
 
 📫 Feel free to reach out for project collaborations, research discussions, or just a tech chat!
 <p align="left">
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f8f9fa?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio" /></a>
+  <a href=" https://soniaakterown.github.io/SoniaAkter.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f8f9fa?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-f8f9fa?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://linkedin.com/in/sonia-akter-80747a392" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-f8f9fa?style=for-the-badge&logo=linkedin&logoColor=%230A66C2" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@Failure_Coder_easy" target="_blank"><img src="https://img.shields.io/badge/Failure_Coder-f8f9fa?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
