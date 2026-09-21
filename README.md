@@ -94,7 +94,7 @@ I am always open to collaborating on innovative AI/ML projects, healthcare resea
 
 📫 Feel free to reach out for project collaborations, research discussions, or just a tech chat!
 <p align="left">
- <a href="https://soniaakterown.github.io/SoniaAkter/" target="_blank">
+ <a href="https://soniaakterown.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-f8f9fa?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio" />
 </a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-f8f9fa?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
